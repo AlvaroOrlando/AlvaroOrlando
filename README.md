@@ -1,6 +1,8 @@
 - 👋 Hi, I’m @AlvaroOrlando
+- 
 - 👀 I’m interested in NODE Web Full Stack Development
-- 🌱 I’m currently learning HTML, CSS, Javascript, NODE.js and more!
+- 
+- 🌱 I’m currently learning HTML, CSS, Javascript, NODE.js, MVC Architecture and more!
 
 
 <!---
