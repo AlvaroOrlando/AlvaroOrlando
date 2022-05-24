@@ -2,7 +2,7 @@
  
 - 👀 I’m interested in NODE Web Full Stack Development
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, NODE.js, MVC Architecture, NEXT/REACT.js,  and more!
+- 🌱 I’m currently learning HTML, CSS, Javascript, NODE.js, MVC Architecture, NEXT/REACT.js, MySQL, Sequelize and more!
 
 
 <!---
