@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @AlvaroOrlando
  
-- 👀 I’m interested in NODE Web Full Stack Development
+- 👀 I’m interested in NODE Web Full Stack Development with React.JS!
 
-- 🌱 I’m currently learning HTML, CSS, Javascript, NODE.js, MVC Architecture, NEXT/REACT.js, MySQL, Postgres, MongoDB,  Sequelize, Knex, Docker and more!
+- 🌱 I’m currently learning  NODE.js, NEXT/REACT.js, MySQL, Postgres, MongoDB,  Sequelize and more!
 
 
 <!---
